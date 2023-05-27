@@ -16,18 +16,12 @@ I am well-equipped to tackle complex engineering challenges.
 - Bachelor of Science in Computer Engineering (Expected Graduation: 2024)
 - parul University (vadodra gujrat )
 
-## Projects
-### Project 1: Smart Home Automation System
-- Developed a smart home automation system using Arduino and various sensors
-- Implemented features such as temperature control, motion detection, and remote access via a web interface
 
 ### Project 2: Online Bookstore Website
 - Designed and developed an online bookstore website using HTML, CSS, and JavaScript
 - Integrated a database to manage book inventory, user authentication, and online ordering
 
-### Project 3: Autonomous Robot
-- Built an autonomous robot using Raspberry Pi and Python
-- Implemented computer vision algorithms for object detection and navigation
+
 
 ## Certifications
 - Certificate in Java Programming
